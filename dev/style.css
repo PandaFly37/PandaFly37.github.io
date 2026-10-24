@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: orange;
+}
+.header-title {
+    color: black;
+    font-size: 25px;
+}
+.content {
+    display: flex;
+}
+.introduction {
+    background-color: cornsilk;
+    width: max(calc(100% - 200px), 200px);
+}
+.sidebar {
+    background-color: antiquewhite;
+    width: 200px;
+}
+.footer {
+    background-color: aliceblue;
+    text-align: center;
+}
+.links-container {
+    display: flex;
+}
+.links {
+    flex: 1;
+    text-align: left;
+}
+.copyright {
+    color: gray;
+}
