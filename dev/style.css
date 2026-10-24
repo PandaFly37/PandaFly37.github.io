@@ -9,6 +9,10 @@
     gap: 8px;
     background-color: orange;
 }
+.header-logo {
+    background: rgb(0, 136, 255);
+    padding: 4px;
+}
 .header-title {
     color: black;
     font-size: 25px;

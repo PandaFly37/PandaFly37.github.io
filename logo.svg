@@ -1,5 +1,5 @@
 <svg version="1.1" width="120mm" height="80mm" viewBox="0 0 12000 8000" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
-  <g stroke="rgb(255,119,0)" stroke-width="106" stroke-linejoin="round" fill="none">
+  <g stroke="rgb(255,119,0)" stroke-width="450" stroke-linejoin="round" fill="none">
     <path d="M 1000,1000 L 1000,5000"/>
     <path d="M 1000,1000 L 2000,1000"/>
     <path d="M 1000,3000 L 2000,3000"/>
