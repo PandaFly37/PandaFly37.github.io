@@ -17,10 +17,24 @@
     color: black;
     font-size: 25px;
 }
+.header a {
+    color: rgb(92, 92, 92);
+    font-size: 16px;
+    text-decoration: none;
+}
+.header a:hover {
+    text-decoration: underline;
+}
 .breadcrumb {
     display: flex;
     gap: 4px;
     background-color: aquamarine;
+}
+.breadcrumb a {
+    text-decoration: none;
+}
+.breadcrumb a:hover {
+    text-decoration: underline;
 }
 .content {
     display: flex;
