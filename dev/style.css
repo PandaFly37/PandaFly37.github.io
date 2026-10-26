@@ -17,6 +17,11 @@
     color: black;
     font-size: 25px;
 }
+.breadcrumb {
+    display: flex;
+    gap: 4px;
+    background-color: aquamarine;
+}
 .content {
     display: flex;
 }
