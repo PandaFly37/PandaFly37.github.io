@@ -20,9 +20,15 @@
 .content {
     display: flex;
 }
-.introduction {
+.main-text {
     background-color: cornsilk;
     width: max(calc(100% - 200px), 200px);
+}
+.main-text h1 {
+    text-align: center;
+}
+.main-text h2 {
+    text-align: center;
 }
 .sidebar {
     background-color: antiquewhite;
