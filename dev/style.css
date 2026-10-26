@@ -41,7 +41,7 @@
 }
 .main-text {
     background-color: cornsilk;
-    width: max(calc(100% - 200px), 200px);
+    width: 85%;
 }
 .main-text h1 {
     text-align: center;
@@ -51,7 +51,7 @@
 }
 .sidebar {
     background-color: antiquewhite;
-    width: 200px;
+    width: 15%;
 }
 .footer {
     background-color: aliceblue;
