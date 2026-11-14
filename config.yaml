@@ -1,0 +1,7 @@
+generate:
+  templates: 'generator/templates'
+  articles:
+    source: 'articles'
+    files:
+      - path: 'temp_art.md'
+        template: 'default.py'
