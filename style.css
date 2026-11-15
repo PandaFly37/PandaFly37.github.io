@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    background-color: orange;
+    background-color: rgb(255, 127, 0);
 }
 .header-logo {
     background: rgb(0, 136, 255);
